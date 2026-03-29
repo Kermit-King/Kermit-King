@@ -18,4 +18,4 @@ I'm Computer Science student based in the best country in the world(Philippines)
 * https://www.linkedin.com/in/jerry-deveza/
 * jerrykingdeveza@gmail.com
 
-![My stats i guess](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![My stats i guess](https://github-readme-stats.vercel.app/api?username=Kermit-King&show_icons=true&theme=radical)
