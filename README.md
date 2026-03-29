@@ -2,6 +2,9 @@
 
 I'm Computer Science student based in the best country in the world(Philippines).
 
+![My stats i guess](https://github-readme-stats.vercel.app/api?username=Kermit-King&show_icons=true&theme=tokyonight&hide_rank=true)
+
+
 ### 🛠 Tech Stack
 * **Frontend:** React, Tailwind CSS v4
 * **Backend:** Node.js, Express.js
@@ -15,7 +18,6 @@ I'm Computer Science student based in the best country in the world(Philippines)
 * **AI Content Automation:** Developing workflows to automate short-form storytelling videos for social media.
 
 ### 🔗 Let's Connect
-* https://www.linkedin.com/in/jerry-deveza/
-* jerrykingdeveza@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-deveza/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jerrykingdeveza@gmail.com)
 
-![My stats i guess](https://github-readme-stats.vercel.app/api?username=Kermit-King&show_icons=true&theme=tokyonight&hide_rank=true)
