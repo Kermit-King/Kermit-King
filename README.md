@@ -4,7 +4,7 @@ I'm Computer Science student based in the best country in the world(Philippines)
 
 ![My stats i guess](https://awesome-github-stats.azurewebsites.net/user-stats/Kermit-King?theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kermit-King&layout=compact&theme=tokyonight)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kermit-King&layout=compact&theme=default&hide_border=false)
 
 
 ### 🛠 Tech Stack
