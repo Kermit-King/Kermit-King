@@ -3,7 +3,7 @@
 I'm Computer Science student based in the best country in the world(Philippines).
 
 <p>
-![My stats i guess](https://awesome-github-stats.azurewebsites.net/user-stats/Kermit-King?theme=tokyonight)
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Kermit-King?theme=tokyonight"/>
   <img src="https://i.ytimg.com/vi/-HhXz2Lr6HM/maxresdefault.jpg"/>
 </p>
 
