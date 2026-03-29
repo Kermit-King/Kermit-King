@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there, I'm Jerry Deveza! 👋
 
-<!--
-**Kermit-King/Kermit-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Computer Science student based in the best country in the world(Philippines).
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠 Tech Stack
+* **Frontend:** React, Tailwind CSS v4
+* **Backend:** Node.js, Express.js
+* **Database:** MySQL, MongoDB
+* **Tools:** Git, Vite, VS Code, IntelliJ IDEA
+* **Other Languages:** Python, Java, JavaScript, SQL, C, C++
 
+### 🚀 Currently Working On
+* **Reservation System:** A full-stack application featuring interactive seat selection logic with auto-sync capabilities for editing reservations.
+* **Proximity Music App:** A concept for a mobile application that syncs with Spotify to share music in real-time based on proximity.
+* **AI Content Automation:** Developing workflows to automate short-form storytelling videos for social media.
+
+### 🔗 Let's Connect
+* https://www.linkedin.com/in/jerry-deveza/
+* jerrykingdeveza@gmail.com
+
+![My stats i guess](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
