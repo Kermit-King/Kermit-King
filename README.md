@@ -4,7 +4,7 @@ I'm Computer Science student based in the best country in the world(Philippines)
 
 <p>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Kermit-King?theme=tokyonight"/>
-  (https://media.tenor.com/jOZWMiDyMEIAAAAi/ome-om.gif)
+  ![gif](https://media.tenor.com/jOZWMiDyMEIAAAAi/ome-om.gif)
 </p>
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kermit-King&layout=compact&theme=default&hide_border=false)
