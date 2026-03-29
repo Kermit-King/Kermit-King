@@ -3,9 +3,9 @@
 I'm Computer Science student based in the best country in the world(Philippines).
 
 <p>
-  <img src="hands/1.png"/>
+  <img src="hands/1.png" height=200px/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Kermit-King?theme=tokyonight"/>
-  <img src="hands/2.png"/>
+  <img src="hands/2.png" height=200px/>
 </p>
 
 ![My Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kermit-King&layout=compact&theme=tokyonight&hide_border=false)
